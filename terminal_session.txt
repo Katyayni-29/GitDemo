@@ -1,0 +1,9 @@
+Script started on Sun Aug 10 22:25:26 2025
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Katyaynis-MacBook-Air.local/Users/katyaynirajput/Desktop/GitDemo[0m[27m[24m[Jkatyaynirajput@Katyaynis-MacBook-Air GitDemo % [K[?2004h[7mexit[27m[27me[27mx[27mi[27mt[?2004l
+
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sun Aug 10 22:25:33 2025
